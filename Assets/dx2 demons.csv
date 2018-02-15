@@ -1,0 +1,161 @@
+Race,Name,Grade,Rarity
+Rumor,Kaminotoko,25,2
+Avatar,Barong,84,5
+Avatar,Anubis,70,4
+Avatar,Chimera,49,3
+Avatar,Makami,41,3
+Avatar,Shiisaa,33,2
+Holy,Sphinx,76,4
+Holy,Sleipnir,62,4
+Holy,Byakko,48,3
+Holy,Apis,44,3
+Holy,Unicorn,42,3
+Holy,Heqet,27,2
+Herald,Metatron,99,5
+Herald,Michael,90,5
+Herald,Azrael,67,4
+Herald,Sandalphon,61,4
+Herald,Lailah,43,3
+Lady,Asherah,83,5
+Lady,Skadi,67,4
+Lady,Kikuri-Hime,60,4
+Lady,Isis,54,3
+Lady,Kushinada-Hime,47,3
+Lady,Pele,40,3
+Divine,Throne,60,4
+Divine,Dominion,53,3
+Divine,Virtue,47,3
+Divine,Power,40,3
+Divine,Principality,35,2
+Divine,Archangel,25,2
+Divine,Angel,20,2
+Fury,Shiva,93,5
+Fury,Susano-o,82,5
+Fury,Hokuto Seikun,69,4
+Fury,Seiten Taisei,61,4
+Fury,Ares,44,3
+Fiend,Trumpeter,94,5
+Fiend,Alice,89,5
+Fiend,White Rider,74,4
+Hero,Yoshitsune,97,5
+Hero,Siegfried,83,5
+Foul,Mad Gasser,45,3
+Foul,Shadow,35,2
+Foul,Black Ooze,25,2
+Foul,Blob,20,2
+Foul,Phantom,10,1
+Foul,Slime,1,1
+Femme,Rangda,67,4
+Femme,Dakini,53,3
+Femme,Mermaid,42,3
+Femme,Yaksini,34,2
+Femme,Yomotsu-Shikome,23,2
+Femme,Leanan Sidhe,12,1
+Kishin,Thor,83,5
+Kishin,Zhong Kui,75,4
+Kishin,Bishamonten,70,4
+Kishin,Jikokuten,62,4
+Kishin,Koumokuten,50,3
+Kishin,Zouchouten,41,3
+Kishin,Take-Minakata,27,2
+Genma,Cu Chulainn,81,5
+Genma,Tsukuyomi,67,4
+Genma,Hanuman,60,4
+Genma,Kresnik,49,3
+Genma,Tam Lin,40,3
+Genma,Kurama Tengu,27,2
+Vile,Seth,84,5
+Vile,Grimehkala,67,4
+Vile,Pazuzu,62,4
+Vile,Arahabaki,50,3
+Vile,Baphomet,41,3
+Vile,Abraxas,26,2
+Megami,Lakshmi,85,5
+Megami,Ishtar,82,5
+Megami,Sarasvati,69,4
+Megami,Pallas Athena,62,4
+Megami,Scathach,50,3
+Megami,Arianrhod,44,3
+Megami,Hathor,27,2
+Fallen,Samael,84,5
+Fallen,Dantalion,70,4
+Fallen,Ose,54,3
+Fallen,Forneus,41,3
+Fallen,Decarabia,23,2
+Fallen,Eligor,10,1
+Fallen,Melchom,4,1
+UMA,Hare of Inaba,41,3
+UMA,Chupacabra,15,1
+Enigma,Kama,75,4
+Enigma,Kinmamon,55,3
+Enigma,Kanbari,30,2
+Tyrant,Lucifer,98,5
+Tyrant,Mara,90,5
+Tyrant,Surt,83,5
+Tyrant,Loki,75,4
+Tyrant,Beelzebub,68,4
+Tyrant,Abaddon,60,4
+Tyrant,Horkos,46,3
+Beast,Cerberus,61,4
+Beast,Ammut,44,3
+Beast,Orthus,35,2
+Beast,Nekomata,14,1
+Beast,Inugami,9,1
+Beast,Cu Sith,3,1
+Deity,Vishnu,97,5
+Deity,Amaterasu,82,5
+Deity,Odin,73,4
+Deity,Prometheus,67,4
+Deity,Mithra,55,3
+Deity,Horus,49,3
+Night,Lilith,80,5
+Night,Succubus,63,4
+Night,Lilim,47,3
+Night,Kaiwan,42,3
+Night,Formor,30,2
+Night,Incubus,21,2
+Night,Sandman,10,1
+Night,Mokoi,5,1
+Haunt,Vetala,55,3
+Haunt,Chatterskull,44,3
+Haunt,Legion,34,2
+Haunt,Pisaca,26,2
+Haunt,Mou-Ryo,20,2
+Haunt,Obariyon,7,1
+Haunt,Preta,4,1
+Brute,Ongyo-Ki,68,4
+Brute,Berserker,54,3
+Brute,Shiki-Oujii,49,3
+Brute,Yomotsu-Ikusa,41,3
+Brute,Oni,27,2
+Brute,Momunofu,15,1
+Brute,Azumi,3,1
+Wilder,Fenrir,61,4
+Wilder,Pellaidh,46,3
+Wilder,Mothman,41,3
+Wilder,Nue,25,2
+Wilder,Raijuu,20,2
+Wilder,Bicorn,9,1
+Wilder,Chagrin,4,1
+Fairy,Oberon,67,4
+Fairy,Titania,62,4
+Fairy,Setanta,47,3
+Fairy,Setanta,42,3
+Fairy,Kelpie,35,2
+Fairy,High Pixie,24,2
+Fairy,Pyro Jack,13,1
+Fairy,Jack Frost,7,1
+Fairy,Pixie,2,1
+Yoma,Ganesha,66,4
+Yoma,Ifrit,52,3
+Yoma,Valkyrie,40,3
+Yoma,Dis,34,2
+Yoma,Apsaras,11,1
+Yoma,Koppa Tengu,7,1
+Yoma,Agathion,5,1
+Snake,Ananta,83,5
+Snake,Yurlungur,70,4
+Snake,Yamata no Orochi,61,4
+Snake,Genbu,45,3
+Snake,Naga,28,2
+Snake,Nozuchi,15,1
